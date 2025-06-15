@@ -3,7 +3,7 @@
 Tema visual inspirado na estética cyberpunk com acentos em ciano vibrante sobre fundos escuros, remetendo ao icônico visual do filme Tron.
 ## Preview
 ### Dark Mode
-![Image](https://github.com/user-attachments/assets/d32460db-0af3-4513-9487-f869498a93e7)
+![Image](https://github.com/user-attachments/assets/3aab8d46-6aa8-4a53-8284-1e92cdff6d35)
 
 ### Light Mode
 ![Image](https://github.com/user-attachments/assets/fd56ec8b-15e6-4a6a-93a0-df325f970eae)
