@@ -2,7 +2,11 @@
 
 Tema visual inspirado na estética cyberpunk com acentos em ciano vibrante sobre fundos escuros, remetendo ao icônico visual do filme Tron.
 ## Preview
+### Dark Mode
 ![Image](https://github.com/user-attachments/assets/8e755f24-c228-466e-806c-e0faced4f24b)
+
+### Light Mode
+![Image](https://github.com/user-attachments/assets/fd56ec8b-15e6-4a6a-93a0-df325f970eae)
 
 ## Descrição
 O Neon Tron é um tema completo em formato JSON que transforma aplicações CustomTkinter com uma aparência futurista e moderna. O arquivo contém todas as configurações necessárias para estilizar todos os widgets disponíveis no CustomTkinter, mantendo consistência visual e excelente legibilidade.
